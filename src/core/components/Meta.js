@@ -4,7 +4,7 @@ export default function Meta() {
       <title>Epic Saas</title>
       <meta
         name="description"
-        content="All the most epic things on the internet, all in one place."
+        content="One Stop Solution to Upskill yourself."
       />
     </>
   );

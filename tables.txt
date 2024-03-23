@@ -14,8 +14,3 @@ table product {
   category (text)
   product_content_id (int8 -> product_content.id) nullable
 }
-
-table product_content {
-  video_url (text)
-  download_url (text)
-}
